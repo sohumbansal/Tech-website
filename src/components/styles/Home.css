@@ -1,0 +1,19 @@
+/* Home page styling */
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    background-color: #f4f4f4;
+}
+
+.home-container h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.home-container p {
+    font-size: 1.2em;
+    color: #666;
+}

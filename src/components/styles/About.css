@@ -1,0 +1,17 @@
+/* About page styling */
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.about-container h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.about-container p {
+    font-size: 1.2em;
+    color: #333;
+}
